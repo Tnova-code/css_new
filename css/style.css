@@ -1,0 +1,35 @@
+h1{
+	color: blue;
+	border: 5px solid blue;
+}
+
+h2{
+	color: red;
+	border: 5px solid red;
+	font-size: 30px;
+}
+
+h3{
+	color: blue;
+	background-color: red;
+}
+
+table, th, td {
+  border:2px solid black;
+}
+th, td {
+  padding: 15px;
+}
+tr:nth-child(even) {
+  background-color: powderblue;
+}
+
+#my_id{
+	color:green;
+	font-size: 20px;
+}
+
+.my_class{
+	color: powderblue;
+	font-size: 30px;
+}
